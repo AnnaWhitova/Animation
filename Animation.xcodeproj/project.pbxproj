@@ -68,6 +68,7 @@
 				2AD5444D2C46E170005D8758 /* Services */,
 				2AD5444F2C46E190005D8758 /* Models */,
 				2AD544502C46E1A1005D8758 /* Resurces */,
+				2AD5443F2C4527E4005D8758 /* Info.plist */,
 			);
 			path = Animation;
 			sourceTree = "<group>";
@@ -75,7 +76,6 @@
 		2AD5444C2C46E144005D8758 /* App */ = {
 			isa = PBXGroup;
 			children = (
-				2AD5443F2C4527E4005D8758 /* Info.plist */,
 				2AD544312C4527E0005D8758 /* AppDelegate.swift */,
 				2AD544332C4527E0005D8758 /* SceneDelegate.swift */,
 			);
